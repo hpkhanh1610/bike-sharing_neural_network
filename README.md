@@ -1,4 +1,4 @@
-# Bike-sharing prediction using neural network
+# Predicting bike-sharing patterns using neural network
 
 ## Project Overview
 This project uses Neural Network to predict daily bike rental ridership from scratch by using ```numpy```, without any deep learning frameworks. Given the past data, the model predicts the future sales from bike rental.
